@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.luma.tests.HomeTest">
+      <class name="com.luma.tests.RegistrationTest">
         <methods>
           <include name="setUp"/>
+          <include name="testPasswordAndConfirmPassword"/>
           <include name="tearDown"/>
-          <include name="testMensWatchPage"/>
         </methods>
-      </class> <!-- com.luma.tests.HomeTest -->
+      </class> <!-- com.luma.tests.RegistrationTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

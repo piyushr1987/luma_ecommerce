@@ -98,3 +98,28 @@
 2023-10-09 20:45:19,735 - luma -INFO - search box is enabled on home page
 2023-10-09 20:45:19,735 - luma -INFO - enter value in search box
 2023-10-09 20:45:22,822 - luma -INFO - click on mens watch
+2023-10-10 17:49:11,997 - luma -INFO - open the chrome browser
+2023-10-10 17:49:23,021 - luma -INFO - sucessfully navigate to registration page
+2023-10-10 17:49:23,036 - luma -INFO - Enter the first name
+2023-10-10 17:49:23,266 - luma -INFO - Enter the last name
+2023-10-10 17:49:23,460 - luma -INFO - Enter valid email
+2023-10-10 17:49:23,683 - luma -INFO - enter password and confirm password
+2023-10-10 17:49:26,933 - luma -INFO - both password are matched
+2023-10-10 17:49:26,936 - luma -INFO - click on create an account
+2023-10-10 17:51:41,729 - luma -INFO - open the chrome browser
+2023-10-10 17:51:52,177 - luma -INFO - click on create account link
+2023-10-10 17:51:54,856 - luma -INFO - sucessfully navigate to registration page
+2023-10-10 17:51:54,865 - luma -INFO - Enter the first name
+2023-10-10 17:51:55,095 - luma -INFO - Enter the last name
+2023-10-10 17:51:55,273 - luma -INFO - Enter valid email
+2023-10-10 17:51:55,544 - luma -INFO - enter password and confirm password
+2023-10-10 17:51:58,899 - luma -INFO - click on create an account button
+2023-10-10 17:57:41,775 - luma -INFO - open the chrome browser
+2023-10-10 17:57:50,919 - luma -INFO - click on create account link
+2023-10-10 17:57:53,469 - luma -INFO - sucessfully navigate to registration page
+2023-10-10 17:57:53,474 - luma -INFO - Enter the first name
+2023-10-10 17:57:53,573 - luma -INFO - Enter the last name
+2023-10-10 17:57:53,633 - luma -INFO - Enter valid email
+2023-10-10 17:57:53,730 - luma -INFO - enter password and confirm password
+2023-10-10 17:57:56,940 - luma -INFO - both password are matched
+2023-10-10 17:57:56,940 - luma -INFO - click on create an account button
