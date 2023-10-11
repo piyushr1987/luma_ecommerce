@@ -123,3 +123,59 @@
 2023-10-10 17:57:53,730 [main] INFO luma - enter password and confirm password
 2023-10-10 17:57:56,940 [main] INFO luma - both password are matched
 2023-10-10 17:57:56,940 [main] INFO luma - click on create an account button
+2023-10-11 16:39:59,870 [main] INFO luma - open the chrome browser
+2023-10-11 16:40:29,854 [main] INFO luma - click on sign in link
+2023-10-11 16:40:31,041 [main] INFO luma - open the chrome browser
+2023-10-11 16:40:59,085 [main] INFO luma - open the chrome browser
+2023-10-11 16:41:27,252 [main] INFO luma - enter email address
+2023-10-11 16:41:47,561 [main] INFO luma - enter password
+2023-10-11 16:42:07,938 [main] INFO luma - click on login button
+2023-10-11 16:42:28,376 [main] INFO luma - open the chrome browser
+2023-10-11 16:44:58,281 [main] INFO luma - open the chrome browser
+2023-10-11 16:45:26,305 [main] INFO luma - click on sign in link
+2023-10-11 16:45:28,234 [main] INFO luma - sucessfully navigate to sign in page
+2023-10-11 16:45:29,062 [main] INFO luma - enter email address
+2023-10-11 16:45:29,140 [main] INFO luma - enter password
+2023-10-11 16:45:29,224 [main] INFO luma - click on login button
+2023-10-11 16:45:31,172 [main] INFO luma - enter email address
+2023-10-11 16:45:31,353 [main] INFO luma - enter password
+2023-10-11 16:45:31,422 [main] INFO luma - click on login button
+2023-10-11 16:45:31,476 [main] INFO luma - enter email address
+2023-10-11 16:45:31,571 [main] INFO luma - enter password
+2023-10-11 16:45:31,685 [main] INFO luma - click on login button
+2023-10-11 16:45:31,777 [main] INFO luma - valid user name is sucessfully displayed on home page
+2023-10-11 16:46:20,868 [main] INFO luma - open the chrome browser
+2023-10-11 16:46:48,823 [main] INFO luma - click on sign in link
+2023-10-11 16:46:52,249 [main] INFO luma - sucessfully navigate to sign in page
+2023-10-11 16:46:52,912 [main] INFO luma - enter email address
+2023-10-11 16:46:52,999 [main] INFO luma - enter password
+2023-10-11 16:46:53,065 [main] INFO luma - click on login button
+2023-10-11 16:46:55,628 [main] INFO luma - enter email address
+2023-10-11 16:46:55,805 [main] INFO luma - enter password
+2023-10-11 16:46:55,883 [main] INFO luma - click on login button
+2023-10-11 16:46:55,934 [main] INFO luma - enter email address
+2023-10-11 16:46:56,046 [main] INFO luma - enter password
+2023-10-11 16:46:56,143 [main] INFO luma - click on login button
+2023-10-11 16:46:56,237 [main] INFO luma - valid user name is sucessfully displayed on home page
+2023-10-11 17:00:48,868 [main] INFO luma - open the chrome browser
+2023-10-11 17:01:21,841 [main] INFO luma - click on sign in link
+2023-10-11 17:01:23,015 [main] INFO luma - sucessfully navigate to sign in page
+2023-10-11 17:01:23,018 [main] INFO luma - enter email address
+2023-10-11 17:01:23,140 [main] INFO luma - enter password
+2023-10-11 17:01:23,237 [main] INFO luma - click on login button
+2023-10-11 17:01:25,864 [main] INFO luma - valid user name is sucessfully displayed on home page
+2023-10-11 17:13:44,484 [main] INFO luma - open the chrome browser
+2023-10-11 17:14:18,471 [main] INFO luma - sucessfully navigate to luma home page and click on sign in
+2023-10-11 17:14:21,623 [main] INFO luma - enter email address
+2023-10-11 17:14:21,739 [main] INFO luma - enter password
+2023-10-11 17:14:21,813 [main] INFO luma - click on login button
+2023-10-11 17:14:24,000 [main] INFO luma - valid user name is sucessfully displayed on home page
+2023-10-11 17:14:24,154 [main] INFO luma - open the chrome browser
+2023-10-11 17:14:51,619 [main] INFO luma - sucessfully navigate to luma home page and click on sign in
+2023-10-11 17:14:56,207 [main] INFO luma - enter email address
+2023-10-11 17:14:56,342 [main] INFO luma - enter password
+2023-10-11 17:14:56,407 [main] INFO luma - click on login button
+2023-10-11 17:14:59,027 [main] INFO luma - valid user name is sucessfully displayed on home page
+2023-10-11 17:14:59,140 [main] INFO luma - open the chrome browser
+2023-10-11 17:15:31,719 [main] INFO luma - sucessfully navigate to luma home page and click on sign in
+2023-10-11 17:15:33,480 [main] INFO luma - enter email address

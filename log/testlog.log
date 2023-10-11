@@ -123,3 +123,59 @@
 2023-10-10 17:57:53,730 - luma -INFO - enter password and confirm password
 2023-10-10 17:57:56,940 - luma -INFO - both password are matched
 2023-10-10 17:57:56,940 - luma -INFO - click on create an account button
+2023-10-11 16:39:59,870 - luma -INFO - open the chrome browser
+2023-10-11 16:40:29,854 - luma -INFO - click on sign in link
+2023-10-11 16:40:31,041 - luma -INFO - open the chrome browser
+2023-10-11 16:40:59,085 - luma -INFO - open the chrome browser
+2023-10-11 16:41:27,252 - luma -INFO - enter email address
+2023-10-11 16:41:47,561 - luma -INFO - enter password
+2023-10-11 16:42:07,938 - luma -INFO - click on login button
+2023-10-11 16:42:28,376 - luma -INFO - open the chrome browser
+2023-10-11 16:44:58,281 - luma -INFO - open the chrome browser
+2023-10-11 16:45:26,305 - luma -INFO - click on sign in link
+2023-10-11 16:45:28,234 - luma -INFO - sucessfully navigate to sign in page
+2023-10-11 16:45:29,062 - luma -INFO - enter email address
+2023-10-11 16:45:29,140 - luma -INFO - enter password
+2023-10-11 16:45:29,224 - luma -INFO - click on login button
+2023-10-11 16:45:31,172 - luma -INFO - enter email address
+2023-10-11 16:45:31,353 - luma -INFO - enter password
+2023-10-11 16:45:31,422 - luma -INFO - click on login button
+2023-10-11 16:45:31,476 - luma -INFO - enter email address
+2023-10-11 16:45:31,571 - luma -INFO - enter password
+2023-10-11 16:45:31,685 - luma -INFO - click on login button
+2023-10-11 16:45:31,777 - luma -INFO - valid user name is sucessfully displayed on home page
+2023-10-11 16:46:20,868 - luma -INFO - open the chrome browser
+2023-10-11 16:46:48,823 - luma -INFO - click on sign in link
+2023-10-11 16:46:52,249 - luma -INFO - sucessfully navigate to sign in page
+2023-10-11 16:46:52,912 - luma -INFO - enter email address
+2023-10-11 16:46:52,999 - luma -INFO - enter password
+2023-10-11 16:46:53,065 - luma -INFO - click on login button
+2023-10-11 16:46:55,628 - luma -INFO - enter email address
+2023-10-11 16:46:55,805 - luma -INFO - enter password
+2023-10-11 16:46:55,883 - luma -INFO - click on login button
+2023-10-11 16:46:55,934 - luma -INFO - enter email address
+2023-10-11 16:46:56,046 - luma -INFO - enter password
+2023-10-11 16:46:56,143 - luma -INFO - click on login button
+2023-10-11 16:46:56,237 - luma -INFO - valid user name is sucessfully displayed on home page
+2023-10-11 17:00:48,868 - luma -INFO - open the chrome browser
+2023-10-11 17:01:21,841 - luma -INFO - click on sign in link
+2023-10-11 17:01:23,015 - luma -INFO - sucessfully navigate to sign in page
+2023-10-11 17:01:23,018 - luma -INFO - enter email address
+2023-10-11 17:01:23,140 - luma -INFO - enter password
+2023-10-11 17:01:23,237 - luma -INFO - click on login button
+2023-10-11 17:01:25,864 - luma -INFO - valid user name is sucessfully displayed on home page
+2023-10-11 17:13:44,484 - luma -INFO - open the chrome browser
+2023-10-11 17:14:18,471 - luma -INFO - sucessfully navigate to luma home page and click on sign in
+2023-10-11 17:14:21,623 - luma -INFO - enter email address
+2023-10-11 17:14:21,739 - luma -INFO - enter password
+2023-10-11 17:14:21,813 - luma -INFO - click on login button
+2023-10-11 17:14:24,000 - luma -INFO - valid user name is sucessfully displayed on home page
+2023-10-11 17:14:24,154 - luma -INFO - open the chrome browser
+2023-10-11 17:14:51,619 - luma -INFO - sucessfully navigate to luma home page and click on sign in
+2023-10-11 17:14:56,207 - luma -INFO - enter email address
+2023-10-11 17:14:56,342 - luma -INFO - enter password
+2023-10-11 17:14:56,407 - luma -INFO - click on login button
+2023-10-11 17:14:59,027 - luma -INFO - valid user name is sucessfully displayed on home page
+2023-10-11 17:14:59,140 - luma -INFO - open the chrome browser
+2023-10-11 17:15:31,719 - luma -INFO - sucessfully navigate to luma home page and click on sign in
+2023-10-11 17:15:33,480 - luma -INFO - enter email address
