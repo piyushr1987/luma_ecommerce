@@ -179,3 +179,19 @@
 2023-10-11 17:14:59,140 [main] INFO luma - open the chrome browser
 2023-10-11 17:15:31,719 [main] INFO luma - sucessfully navigate to luma home page and click on sign in
 2023-10-11 17:15:33,480 [main] INFO luma - enter email address
+2023-10-12 17:38:55,412 [main] INFO luma - open the chrome browser
+2023-10-12 17:39:28,330 [main] INFO luma - click on whatsnew link
+2023-10-12 17:39:31,840 [main] INFO luma - sucessfully navigate to whats new page
+2023-10-12 17:39:31,846 [main] INFO luma - click on womens hoodies
+2023-10-12 17:39:34,671 [main] INFO luma - sucessfully navigate to womens hoodies page
+2023-10-12 17:39:34,681 [main] INFO luma - click on womens v neck hoodie
+2023-10-12 17:39:37,531 [main] INFO luma - sucessfully navigate to women v neck hoodies page
+2023-10-12 17:39:37,537 [main] INFO luma - click on womens v neck hoodie size
+2023-10-12 17:39:37,660 [main] INFO luma - click on womens v neck hoodie color
+2023-10-12 17:39:37,720 [main] INFO luma - enter the quantity
+2023-10-12 17:39:37,856 [main] INFO luma - click on add to cart
+2023-10-12 17:39:40,594 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-12 17:39:40,597 [main] INFO luma - click on add to compare
+2023-10-12 17:39:42,840 [main] INFO luma - sucessfully displayed the add to compare message
+2023-10-12 17:39:42,848 [main] INFO luma - click on shopping cart
+2023-10-12 17:39:42,912 [main] INFO luma - click on shopping cart close button
