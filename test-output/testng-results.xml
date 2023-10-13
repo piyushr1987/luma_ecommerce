@@ -1,81 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+<testng-results ignored="0" total="20" passed="19" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-12T17:38:55 IST" name="Default suite" finished-at="2023-10-12T17:39:43 IST" duration-ms="47822">
+  <suite started-at="2023-10-13T20:20:23 IST" name="Default suite" finished-at="2023-10-13T20:21:53 IST" duration-ms="89574">
     <groups>
     </groups>
-    <test started-at="2023-10-12T17:38:55 IST" name="Default test" finished-at="2023-10-12T17:39:43 IST" duration-ms="47822">
-      <class name="com.luma.tests.WhatsNewTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:38:55 IST" name="setUp" finished-at="2023-10-12T17:39:28 IST" duration-ms="33026" status="PASS">
+    <test started-at="2023-10-13T20:20:23 IST" name="Default test" finished-at="2023-10-13T20:21:53 IST" duration-ms="89574">
+      <class name="com.luma.tests.WomenTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:20:23 IST" name="setUp" finished-at="2023-10-13T20:21:05 IST" duration-ms="42325" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testWhatsNew()[pri:1, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:28 IST" name="testWhatsNew" finished-at="2023-10-12T17:39:31 IST" duration-ms="3495" status="PASS">
+        <test-method signature="testWomen()[pri:1, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:05 IST" name="testWomen" finished-at="2023-10-13T20:21:17 IST" duration-ms="12035" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testWhatsNew -->
-        <test-method signature="testWhatsNewPage()[pri:2, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:31 IST" name="testWhatsNewPage" finished-at="2023-10-12T17:39:31 IST" duration-ms="15" status="PASS">
+        </test-method> <!-- testWomen -->
+        <test-method signature="testWomenjacketPage()[pri:2, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:17 IST" name="testWomenjacketPage" finished-at="2023-10-13T20:21:17 IST" duration-ms="25" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testWhatsNewPage -->
-        <test-method signature="testWomensHoodies()[pri:3, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:31 IST" name="testWomensHoodies" finished-at="2023-10-12T17:39:34 IST" duration-ms="2814" status="PASS">
+        </test-method> <!-- testWomenjacketPage -->
+        <test-method signature="testWomenStyle()[pri:3, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:17 IST" name="testWomenStyle" finished-at="2023-10-13T20:21:18 IST" duration-ms="115" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testWomensHoodies -->
-        <test-method signature="testWomensHoodiesPage()[pri:4, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:34 IST" name="testWomensHoodiesPage" finished-at="2023-10-12T17:39:34 IST" duration-ms="12" status="PASS">
+        </test-method> <!-- testWomenStyle -->
+        <test-method signature="testWomenLightWeightStyle()[pri:4, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:18 IST" name="testWomenLightWeightStyle" finished-at="2023-10-13T20:21:19 IST" duration-ms="1269" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testWomensHoodiesPage -->
-        <test-method signature="testWomensVNeckHoodie()[pri:5, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:34 IST" name="testWomensVNeckHoodie" finished-at="2023-10-12T17:39:37 IST" duration-ms="2840" status="PASS">
+        </test-method> <!-- testWomenLightWeightStyle -->
+        <test-method signature="testWomenjacketLightweightStylePage()[pri:5, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:19 IST" name="testWomenjacketLightweightStylePage" finished-at="2023-10-13T20:21:19 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testWomensVNeckHoodie -->
-        <test-method signature="testWomenVNeckPage()[pri:6, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:37 IST" name="testWomenVNeckPage" finished-at="2023-10-12T17:39:37 IST" duration-ms="9" status="PASS">
+        </test-method> <!-- testWomenjacketLightweightStylePage -->
+        <test-method signature="testWomenPrice()[pri:6, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:19 IST" name="testWomenPrice" finished-at="2023-10-13T20:21:19 IST" duration-ms="68" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testWomenVNeckPage -->
-        <test-method signature="testWomensVNeckHoodieSize()[pri:7, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:37 IST" name="testWomensVNeckHoodieSize" finished-at="2023-10-12T17:39:37 IST" duration-ms="123" status="PASS">
+        </test-method> <!-- testWomenPrice -->
+        <test-method signature="testWomenHighPrice()[pri:7, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:19 IST" name="testWomenHighPrice" finished-at="2023-10-13T20:21:20 IST" duration-ms="1122" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testWomensVNeckHoodieSize -->
-        <test-method signature="testWomensVNeckHoodieColor()[pri:8, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:37 IST" name="testWomensVNeckHoodieColor" finished-at="2023-10-12T17:39:37 IST" duration-ms="60" status="PASS">
+        </test-method> <!-- testWomenHighPrice -->
+        <test-method signature="testWomenjacketHighPricePage()[pri:8, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:20 IST" name="testWomenjacketHighPricePage" finished-at="2023-10-13T20:21:20 IST" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testWomensVNeckHoodieColor -->
-        <test-method signature="testQuantity()[pri:9, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:37 IST" name="testQuantity" finished-at="2023-10-12T17:39:37 IST" duration-ms="126" status="PASS">
+        </test-method> <!-- testWomenjacketHighPricePage -->
+        <test-method signature="testWomenJacketClimate()[pri:9, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:20 IST" name="testWomenJacketClimate" finished-at="2023-10-13T20:21:20 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWomenJacketClimate -->
+        <test-method signature="testWomenJacketSpringClimate()[pri:10, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:20 IST" name="testWomenJacketSpringClimate" finished-at="2023-10-13T20:21:40 IST" duration-ms="20178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWomenJacketSpringClimate -->
+        <test-method signature="testWomenJacketSpringClimatePage()[pri:11, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:40 IST" name="testWomenJacketSpringClimatePage" finished-at="2023-10-13T20:21:41 IST" duration-ms="143" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.luma.tests.WomenTest.testWomenJacketSpringClimatePage(WomenTest.java:149)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWomenJacketSpringClimatePage -->
+        <test-method signature="testWomenTrekJacket()[pri:12, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:41 IST" name="testWomenTrekJacket" finished-at="2023-10-13T20:21:48 IST" duration-ms="7120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWomenTrekJacket -->
+        <test-method signature="testWomenTrekJacketPage()[pri:13, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:48 IST" name="testWomenTrekJacketPage" finished-at="2023-10-13T20:21:48 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWomenTrekJacketPage -->
+        <test-method signature="testWomenTrekJacketSize()[pri:14, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:48 IST" name="testWomenTrekJacketSize" finished-at="2023-10-13T20:21:48 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWomenTrekJacketSize -->
+        <test-method signature="testWomenTrekJacketColor()[pri:15, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:48 IST" name="testWomenTrekJacketColor" finished-at="2023-10-13T20:21:48 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWomenTrekJacketColor -->
+        <test-method signature="testQuantity()[pri:16, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:48 IST" name="testQuantity" finished-at="2023-10-13T20:21:48 IST" duration-ms="130" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testQuantity -->
-        <test-method signature="testAddToCat()[pri:10, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:37 IST" name="testAddToCat" finished-at="2023-10-12T17:39:37 IST" duration-ms="83" status="PASS">
+        <test-method signature="testAddToCat()[pri:17, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:48 IST" name="testAddToCat" finished-at="2023-10-13T20:21:48 IST" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddToCat -->
-        <test-method signature="testAddToCartSucessMessage()[pri:11, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:37 IST" name="testAddToCartSucessMessage" finished-at="2023-10-12T17:39:40 IST" duration-ms="2655" status="PASS">
+        <test-method signature="testAddToCartSucessMessage()[pri:18, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:48 IST" name="testAddToCartSucessMessage" finished-at="2023-10-13T20:21:52 IST" duration-ms="3992" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddToCartSucessMessage -->
-        <test-method signature="testAddToCompare()[pri:12, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:40 IST" name="testAddToCompare" finished-at="2023-10-12T17:39:42 IST" duration-ms="2177" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAddToCompare -->
-        <test-method signature="testAddToCompareSucessMessage()[pri:13, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:42 IST" name="testAddToCompareSucessMessage" finished-at="2023-10-12T17:39:42 IST" duration-ms="64" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAddToCompareSucessMessage -->
-        <test-method signature="testShoppingCart()[pri:14, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:42 IST" name="testShoppingCart" finished-at="2023-10-12T17:39:42 IST" duration-ms="69" status="PASS">
+        <test-method signature="testShoppingCart()[pri:19, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:52 IST" name="testShoppingCart" finished-at="2023-10-13T20:21:52 IST" duration-ms="91" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testShoppingCart -->
-        <test-method signature="testShoppingCartCloseButton()[pri:15, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:42 IST" name="testShoppingCartCloseButton" finished-at="2023-10-12T17:39:42 IST" duration-ms="49" status="PASS">
+        <test-method signature="testShoppingCartCloseButton()[pri:20, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:52 IST" name="testShoppingCartCloseButton" finished-at="2023-10-13T20:21:52 IST" duration-ms="63" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testShoppingCartCloseButton -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.tests.WhatsNewTest@6bbe85a8]" started-at="2023-10-12T17:39:42 IST" name="tearDown" finished-at="2023-10-12T17:39:43 IST" duration-ms="124" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.tests.WomenTest@53fb3dab]" started-at="2023-10-13T20:21:52 IST" name="tearDown" finished-at="2023-10-13T20:21:53 IST" duration-ms="184" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.luma.tests.WhatsNewTest -->
+      </class> <!-- com.luma.tests.WomenTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

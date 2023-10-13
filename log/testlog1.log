@@ -195,3 +195,91 @@
 2023-10-12 17:39:42,840 [main] INFO luma - sucessfully displayed the add to compare message
 2023-10-12 17:39:42,848 [main] INFO luma - click on shopping cart
 2023-10-12 17:39:42,912 [main] INFO luma - click on shopping cart close button
+2023-10-13 18:32:14,090 [main] INFO luma - open the chrome browser
+2023-10-13 18:32:53,220 [main] INFO luma - go to women and then tops and then click on jackets
+2023-10-13 18:33:01,299 [main] INFO luma - click on style
+2023-10-13 18:33:13,870 [main] INFO luma - click on lightweight style
+2023-10-13 18:33:13,896 [main] INFO luma - click on price
+2023-10-13 18:33:13,917 [main] INFO luma - click on high price
+2023-10-13 18:33:13,963 [main] INFO luma - click on climate
+2023-10-13 18:33:13,978 [main] INFO luma - click on spring climate
+2023-10-13 18:33:14,011 [main] INFO luma - click on trek jacket
+2023-10-13 18:33:14,050 [main] INFO luma - click on trek jacket size
+2023-10-13 18:33:14,076 [main] INFO luma - click on trek jacket color
+2023-10-13 18:33:14,093 [main] INFO luma - enter the quantity
+2023-10-13 18:33:14,108 [main] INFO luma - click on add to cart
+2023-10-13 18:33:14,129 [main] INFO luma - click on shopping cart
+2023-10-13 18:33:14,146 [main] INFO luma - click on shopping cart close button
+2023-10-13 18:34:07,987 [main] INFO luma - open the chrome browser
+2023-10-13 18:34:52,055 [main] INFO luma - go to women and then tops and then click on jackets
+2023-10-13 18:35:05,932 [main] INFO luma - sucessfully navigate to women jacket page
+2023-10-13 18:35:05,936 [main] INFO luma - click on style
+2023-10-13 18:35:06,018 [main] INFO luma - click on lightweight style
+2023-10-13 18:35:08,220 [main] INFO luma - sucessfully navigate to women lightweight jacket style page
+2023-10-13 18:35:08,232 [main] INFO luma - click on price
+2023-10-13 18:35:08,371 [main] INFO luma - click on high price
+2023-10-13 18:35:28,725 [main] INFO luma - click on climate
+2023-10-13 18:35:28,790 [main] INFO luma - click on spring climate
+2023-10-13 18:35:49,066 [main] INFO luma - click on trek jacket
+2023-10-13 18:35:53,008 [main] INFO luma - click on trek jacket size
+2023-10-13 18:35:53,130 [main] INFO luma - click on trek jacket color
+2023-10-13 18:35:53,199 [main] INFO luma - enter the quantity
+2023-10-13 18:35:53,319 [main] INFO luma - click on add to cart
+2023-10-13 18:36:10,357 [main] INFO luma - click on shopping cart
+2023-10-13 18:36:10,420 [main] INFO luma - click on shopping cart close button
+2023-10-13 18:39:28,227 [main] INFO luma - open the chrome browser
+2023-10-13 18:40:21,774 [main] INFO luma - go to women and then tops and then click on jackets
+2023-10-13 18:40:48,178 [main] INFO luma - sucessfully navigate to women jacket page
+2023-10-13 18:40:48,183 [main] INFO luma - click on style
+2023-10-13 18:40:48,257 [main] INFO luma - click on lightweight style
+2023-10-13 18:40:50,429 [main] INFO luma - sucessfully navigate to women lightweight jacket style page
+2023-10-13 18:40:50,434 [main] INFO luma - click on price
+2023-10-13 18:40:50,481 [main] INFO luma - click on high price
+2023-10-13 18:41:10,847 [main] INFO luma - click on climate
+2023-10-13 18:41:10,902 [main] INFO luma - click on spring climate
+2023-10-13 18:41:31,193 [main] INFO luma - click on trek jacket
+2023-10-13 18:41:36,463 [main] INFO luma - click on trek jacket size
+2023-10-13 18:41:36,536 [main] INFO luma - click on trek jacket color
+2023-10-13 18:41:36,598 [main] INFO luma - enter the quantity
+2023-10-13 18:41:36,705 [main] INFO luma - click on add to cart
+2023-10-13 18:41:42,107 [main] INFO luma - click on shopping cart
+2023-10-13 18:41:42,160 [main] INFO luma - click on shopping cart close button
+2023-10-13 20:13:22,122 [main] INFO luma - open the chrome browser
+2023-10-13 20:13:51,972 [main] INFO luma - go to women and then tops and then click on jackets
+2023-10-13 20:14:02,862 [main] INFO luma - sucessfully navigate to women jacket page
+2023-10-13 20:14:02,877 [main] INFO luma - click on style
+2023-10-13 20:14:03,004 [main] INFO luma - click on lightweight style
+2023-10-13 20:14:04,671 [main] INFO luma - sucessfully navigate to women lightweight jacket style page
+2023-10-13 20:14:04,681 [main] INFO luma - click on price
+2023-10-13 20:14:04,785 [main] INFO luma - click on high price
+2023-10-13 20:14:06,020 [main] INFO luma - sucessfully navigate to womem jacket high price page
+2023-10-13 20:14:06,022 [main] INFO luma - click on climate
+2023-10-13 20:14:06,120 [main] INFO luma - click on spring climate
+2023-10-13 20:14:26,479 [main] INFO luma - click on trek jacket
+2023-10-13 20:14:31,278 [main] INFO luma - sucessfully navigate to womem trek jacket page
+2023-10-13 20:14:31,285 [main] INFO luma - click on trek jacket size
+2023-10-13 20:14:31,433 [main] INFO luma - click on trek jacket color
+2023-10-13 20:14:31,542 [main] INFO luma - enter the quantity
+2023-10-13 20:14:31,813 [main] INFO luma - click on add to cart
+2023-10-13 20:14:34,385 [main] INFO luma - click on shopping cart
+2023-10-13 20:14:34,447 [main] INFO luma - click on shopping cart close button
+2023-10-13 20:20:23,651 [main] INFO luma - open the chrome browser
+2023-10-13 20:21:05,855 [main] INFO luma - go to women and then tops and then click on jackets
+2023-10-13 20:21:17,926 [main] INFO luma - sucessfully navigate to women jacket page
+2023-10-13 20:21:17,933 [main] INFO luma - click on style
+2023-10-13 20:21:18,054 [main] INFO luma - click on lightweight style
+2023-10-13 20:21:19,335 [main] INFO luma - sucessfully navigate to women lightweight jacket style page
+2023-10-13 20:21:19,338 [main] INFO luma - click on price
+2023-10-13 20:21:19,413 [main] INFO luma - click on high price
+2023-10-13 20:21:20,617 [main] INFO luma - sucessfully navigate to womem jacket high price page
+2023-10-13 20:21:20,623 [main] INFO luma - click on climate
+2023-10-13 20:21:20,744 [main] INFO luma - click on spring climate
+2023-10-13 20:21:41,073 [main] INFO luma - click on trek jacket
+2023-10-13 20:21:48,216 [main] INFO luma - sucessfully navigate to womem trek jacket page
+2023-10-13 20:21:48,228 [main] INFO luma - click on trek jacket size
+2023-10-13 20:21:48,352 [main] INFO luma - click on trek jacket color
+2023-10-13 20:21:48,471 [main] INFO luma - enter the quantity
+2023-10-13 20:21:48,603 [main] INFO luma - click on add to cart
+2023-10-13 20:21:52,680 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-13 20:21:52,683 [main] INFO luma - click on shopping cart
+2023-10-13 20:21:52,791 [main] INFO luma - click on shopping cart close button
