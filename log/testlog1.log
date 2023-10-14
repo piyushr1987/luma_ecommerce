@@ -283,3 +283,55 @@
 2023-10-13 20:21:52,680 [main] INFO luma - sucessfully displayed the add to cart message
 2023-10-13 20:21:52,683 [main] INFO luma - click on shopping cart
 2023-10-13 20:21:52,791 [main] INFO luma - click on shopping cart close button
+2023-10-14 18:03:51,429 [main] INFO luma - open the chrome browser
+2023-10-14 18:04:22,662 [main] INFO luma - go to men and then bottom and then click on pants
+2023-10-14 18:04:33,597 [main] INFO luma - sucessfully navigate to men pant page
+2023-10-14 18:04:33,601 [main] INFO luma - click on material
+2023-10-14 18:04:33,672 [main] INFO luma - click on polyster material
+2023-10-14 18:04:54,076 [main] INFO luma - click on new
+2023-10-14 18:04:54,143 [main] INFO luma - click on yes
+2023-10-14 18:05:20,902 [main] INFO luma - sucessfully navigate to men pant sort by price page
+2023-10-14 18:05:20,907 [main] INFO luma - click on kratos gym pant
+2023-10-14 18:05:40,825 [main] INFO luma - click on next button
+2023-10-14 18:05:40,894 [main] INFO luma - click on kratos gym pant size
+2023-10-14 18:05:40,978 [main] INFO luma - click on kratos gym pant color
+2023-10-14 18:05:41,045 [main] INFO luma - enter the quantity
+2023-10-14 18:05:41,172 [main] INFO luma - click on add to cart
+2023-10-14 18:06:01,309 [main] INFO luma - click on shopping cart
+2023-10-14 18:06:01,406 [main] INFO luma - click on shopping cart close button
+2023-10-14 18:09:41,293 [main] INFO luma - open the chrome browser
+2023-10-14 18:10:16,509 [main] INFO luma - go to men and then bottom and then click on pants
+2023-10-14 18:10:26,706 [main] INFO luma - sucessfully navigate to men pant page
+2023-10-14 18:10:26,712 [main] INFO luma - click on material
+2023-10-14 18:10:26,790 [main] INFO luma - click on polyster material
+2023-10-14 18:10:47,182 [main] INFO luma - click on new
+2023-10-14 18:10:47,242 [main] INFO luma - click on yes
+2023-10-14 18:11:10,996 [main] INFO luma - sucessfully navigate to men pant sort by price page
+2023-10-14 18:11:11,002 [main] INFO luma - click on kratos gym pant
+2023-10-14 18:11:16,835 [main] INFO luma - click on next button
+2023-10-14 18:11:18,412 [main] INFO luma - click on kratos gym pant size
+2023-10-14 18:11:18,489 [main] INFO luma - click on kratos gym pant color
+2023-10-14 18:11:18,571 [main] INFO luma - enter the quantity
+2023-10-14 18:11:18,691 [main] INFO luma - click on add to cart
+2023-10-14 18:11:38,874 [main] INFO luma - click on shopping cart
+2023-10-14 18:11:38,959 [main] INFO luma - click on shopping cart close button
+2023-10-14 18:16:00,095 [main] INFO luma - open the chrome browser
+2023-10-14 18:16:36,774 [main] INFO luma - go to men and then bottom and then click on pants
+2023-10-14 18:16:47,548 [main] INFO luma - sucessfully navigate to men pant page
+2023-10-14 18:16:47,553 [main] INFO luma - click on material
+2023-10-14 18:16:47,623 [main] INFO luma - click on polyster material
+2023-10-14 18:16:49,534 [main] INFO luma - sucessfully navigate to men pant material page
+2023-10-14 18:16:49,546 [main] INFO luma - click on new
+2023-10-14 18:16:49,649 [main] INFO luma - click on yes
+2023-10-14 18:16:50,916 [main] INFO luma - sucessfully navigate to men pant material page
+2023-10-14 18:16:53,337 [main] INFO luma - sucessfully navigate to men pant sort by price page
+2023-10-14 18:16:53,341 [main] INFO luma - click on kratos gym pant
+2023-10-14 18:16:59,295 [main] INFO luma - sucessfully navigate to kratos gym pant page
+2023-10-14 18:16:59,295 [main] INFO luma - click on next button
+2023-10-14 18:16:59,357 [main] INFO luma - click on kratos gym pant size
+2023-10-14 18:16:59,436 [main] INFO luma - click on kratos gym pant color
+2023-10-14 18:16:59,506 [main] INFO luma - enter the quantity
+2023-10-14 18:16:59,620 [main] INFO luma - click on add to cart
+2023-10-14 18:17:04,610 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-14 18:17:04,612 [main] INFO luma - click on shopping cart
+2023-10-14 18:17:04,684 [main] INFO luma - click on shopping cart close button
