@@ -3,16 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.luma.tests.MenTest">
+      <class name="com.luma.tests.GearTest">
         <methods>
-          <include name="testKratosGymPantPage"/>
-          <include name="testAddToCartSucessMessage"/>
-          <include name="testPolysterMaterialPage"/>
-          <include name="tearDown"/>
-          <include name="testNewArrivalPage"/>
+          <include name="testProductListPage"/>
           <include name="setUp"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.luma.tests.MenTest -->
+      </class> <!-- com.luma.tests.GearTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,101 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-14T18:15:59 IST" name="Default suite" finished-at="2023-10-14T18:17:04 IST" duration-ms="64903">
+  <suite started-at="2023-10-17T17:37:45 IST" name="Default suite" finished-at="2023-10-17T17:38:43 IST" duration-ms="58093">
     <groups>
     </groups>
-    <test started-at="2023-10-14T18:15:59 IST" name="Default test" finished-at="2023-10-14T18:17:04 IST" duration-ms="64903">
-      <class name="com.luma.tests.MenTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:15:59 IST" name="setUp" finished-at="2023-10-14T18:16:36 IST" duration-ms="36779" status="PASS">
+    <test started-at="2023-10-17T17:37:45 IST" name="Default test" finished-at="2023-10-17T17:38:43 IST" duration-ms="58093">
+      <class name="com.luma.tests.GearTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:37:45 IST" name="setUp" finished-at="2023-10-17T17:38:27 IST" duration-ms="42060" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testMen()[pri:1, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:36 IST" name="testMen" finished-at="2023-10-14T18:16:47 IST" duration-ms="10753" status="PASS">
+        <test-method signature="testGear()[pri:1, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:27 IST" name="testGear" finished-at="2023-10-17T17:38:34 IST" duration-ms="6821" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMen -->
-        <test-method signature="testMenPantPage()[pri:2, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:47 IST" name="testMenPantPage" finished-at="2023-10-14T18:16:47 IST" duration-ms="18" status="PASS">
+        </test-method> <!-- testGear -->
+        <test-method signature="testFitnessEquipmentPage()[pri:2, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:34 IST" name="testFitnessEquipmentPage" finished-at="2023-10-17T17:38:34 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMenPantPage -->
-        <test-method signature="testManMaterial()[pri:3, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:47 IST" name="testManMaterial" finished-at="2023-10-14T18:16:47 IST" duration-ms="64" status="PASS">
+        </test-method> <!-- testFitnessEquipmentPage -->
+        <test-method signature="testListView()[pri:3, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:34 IST" name="testListView" finished-at="2023-10-17T17:38:36 IST" duration-ms="1530" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testManMaterial -->
-        <test-method signature="testManPolysterMaterial()[pri:4, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:47 IST" name="testManPolysterMaterial" finished-at="2023-10-14T18:16:49 IST" duration-ms="1902" status="PASS">
+        </test-method> <!-- testListView -->
+        <test-method signature="testListViewPage()[pri:4, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:36 IST" name="testListViewPage" finished-at="2023-10-17T17:38:36 IST" duration-ms="72" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testManPolysterMaterial -->
-        <test-method signature="testPolysterMaterialPage()[pri:5, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:49 IST" name="testPolysterMaterialPage" finished-at="2023-10-14T18:16:49 IST" duration-ms="10" status="PASS">
+        </test-method> <!-- testListViewPage -->
+        <test-method signature="testSortByProductName()[pri:5, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:36 IST" name="testSortByProductName" finished-at="2023-10-17T17:38:36 IST" duration-ms="84" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPolysterMaterialPage -->
-        <test-method signature="testNew()[pri:6, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:49 IST" name="testNew" finished-at="2023-10-14T18:16:49 IST" duration-ms="104" status="PASS">
+        </test-method> <!-- testSortByProductName -->
+        <test-method signature="testPushupGrip()[pri:6, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:36 IST" name="testPushupGrip" finished-at="2023-10-17T17:38:39 IST" duration-ms="3632" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testNew -->
-        <test-method signature="testNewArrival()[pri:7, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:49 IST" name="testNewArrival" finished-at="2023-10-14T18:16:50 IST" duration-ms="1222" status="PASS">
+        </test-method> <!-- testPushupGrip -->
+        <test-method signature="testPushupGripPage()[pri:7, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:39 IST" name="testPushupGripPage" finished-at="2023-10-17T17:38:39 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testNewArrival -->
-        <test-method signature="testNewArrivalPage()[pri:8, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:50 IST" name="testNewArrivalPage" finished-at="2023-10-14T18:16:50 IST" duration-ms="44" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testNewArrivalPage -->
-        <test-method signature="selectSortBy()[pri:9, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:50 IST" name="selectSortBy" finished-at="2023-10-14T18:16:53 IST" duration-ms="2354" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- selectSortBy -->
-        <test-method signature="testNewArrivalByPricePage()[pri:10, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:53 IST" name="testNewArrivalByPricePage" finished-at="2023-10-14T18:16:53 IST" duration-ms="59" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testNewArrivalByPricePage -->
-        <test-method signature="testGymPant()[pri:11, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:53 IST" name="testGymPant" finished-at="2023-10-14T18:16:59 IST" duration-ms="5942" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testGymPant -->
-        <test-method signature="testKratosGymPantPage()[pri:12, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:59 IST" name="testKratosGymPantPage" finished-at="2023-10-14T18:16:59 IST" duration-ms="8" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testKratosGymPantPage -->
-        <test-method signature="testNextButton()[pri:13, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:59 IST" name="testNextButton" finished-at="2023-10-14T18:16:59 IST" duration-ms="62" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testNextButton -->
-        <test-method signature="testKratosGymPantSize()[pri:14, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:59 IST" name="testKratosGymPantSize" finished-at="2023-10-14T18:16:59 IST" duration-ms="79" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testKratosGymPantSize -->
-        <test-method signature="testKratosGymPantColor()[pri:15, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:59 IST" name="testKratosGymPantColor" finished-at="2023-10-14T18:16:59 IST" duration-ms="67" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testKratosGymPantColor -->
-        <test-method signature="testQuantity()[pri:16, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:59 IST" name="testQuantity" finished-at="2023-10-14T18:16:59 IST" duration-ms="111" status="PASS">
+        </test-method> <!-- testPushupGripPage -->
+        <test-method signature="testQuantity()[pri:8, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:39 IST" name="testQuantity" finished-at="2023-10-17T17:38:40 IST" duration-ms="136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testQuantity -->
-        <test-method signature="testAddToCat()[pri:17, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:59 IST" name="testAddToCat" finished-at="2023-10-14T18:16:59 IST" duration-ms="76" status="PASS">
+        <test-method signature="testAddToCart()[pri:9, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:40 IST" name="testAddToCart" finished-at="2023-10-17T17:38:40 IST" duration-ms="67" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAddToCat -->
-        <test-method signature="testAddToCartSucessMessage()[pri:18, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:16:59 IST" name="testAddToCartSucessMessage" finished-at="2023-10-14T18:17:04 IST" duration-ms="4912" status="PASS">
+        </test-method> <!-- testAddToCart -->
+        <test-method signature="testAddToCartSucessMessage()[pri:10, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:40 IST" name="testAddToCartSucessMessage" finished-at="2023-10-17T17:38:43 IST" duration-ms="3378" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddToCartSucessMessage -->
-        <test-method signature="testShoppingCart()[pri:19, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:17:04 IST" name="testShoppingCart" finished-at="2023-10-14T18:17:04 IST" duration-ms="67" status="PASS">
+        <test-method signature="testShoppingCart()[pri:11, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:43 IST" name="testShoppingCart" finished-at="2023-10-17T17:38:43 IST" duration-ms="60" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testShoppingCart -->
-        <test-method signature="testShoppingCartCloseButton()[pri:20, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:17:04 IST" name="testShoppingCartCloseButton" finished-at="2023-10-14T18:17:04 IST" duration-ms="69" status="PASS">
+        <test-method signature="testShoppingCartCloseButton()[pri:12, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:43 IST" name="testShoppingCartCloseButton" finished-at="2023-10-17T17:38:43 IST" duration-ms="66" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testShoppingCartCloseButton -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.tests.MenTest@53fb3dab]" started-at="2023-10-14T18:17:04 IST" name="tearDown" finished-at="2023-10-14T18:17:04 IST" duration-ms="112" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:43 IST" name="tearDown" finished-at="2023-10-17T17:38:43 IST" duration-ms="108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.luma.tests.MenTest -->
+      </class> <!-- com.luma.tests.GearTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

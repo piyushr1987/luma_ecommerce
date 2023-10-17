@@ -117,7 +117,7 @@ public class MenTest extends BaseClass {
 	}
 
 	@Test(priority = 9)
-	public void selectSortBy() throws Exception {
+	public void testSortByProductName() throws Exception {
 		try {
 			men.selectPantByPrice(prop.getProperty("sorting"));
 		} catch (Exception e) {

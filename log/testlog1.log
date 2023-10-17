@@ -335,3 +335,95 @@
 2023-10-14 18:17:04,610 [main] INFO luma - sucessfully displayed the add to cart message
 2023-10-14 18:17:04,612 [main] INFO luma - click on shopping cart
 2023-10-14 18:17:04,684 [main] INFO luma - click on shopping cart close button
+2023-10-17 16:35:37,830 [main] INFO luma - open the chrome browser
+2023-10-17 16:59:43,238 [main] INFO luma - open the chrome browser
+2023-10-17 17:00:16,217 [main] INFO luma - go to gear and then click on fitness equipment
+2023-10-17 17:00:25,576 [main] INFO luma - sucessfully navigate to fitness equipment page
+2023-10-17 17:00:25,584 [main] INFO luma - click on list view
+2023-10-17 17:00:28,123 [main] INFO luma - sucessfully navigate to list view page
+2023-10-17 17:00:28,135 [main] INFO luma - sort the list by product name
+2023-10-17 17:00:32,748 [main] INFO luma - sucessfully navigate to pushup grip page
+2023-10-17 17:00:32,754 [main] INFO luma - enter the quantity
+2023-10-17 17:00:32,889 [main] INFO luma - click on add to cart
+2023-10-17 17:00:36,122 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-17 17:00:36,130 [main] INFO luma - click on shopping cart
+2023-10-17 17:00:36,197 [main] INFO luma - click on shopping cart close button
+2023-10-17 17:03:29,721 [main] INFO luma - open the chrome browser
+2023-10-17 17:04:04,434 [main] INFO luma - go to gear and then click on fitness equipment
+2023-10-17 17:04:12,525 [main] INFO luma - sucessfully navigate to fitness equipment page
+2023-10-17 17:04:12,529 [main] INFO luma - click on list view
+2023-10-17 17:04:14,064 [main] INFO luma - sucessfully navigate to list view page
+2023-10-17 17:04:14,072 [main] INFO luma - sort the list by product name
+2023-10-17 17:04:16,952 [main] INFO luma - sucessfully navigate to pushup grip page
+2023-10-17 17:04:16,955 [main] INFO luma - enter the quantity
+2023-10-17 17:04:17,069 [main] INFO luma - click on add to cart
+2023-10-17 17:04:37,227 [main] INFO luma - click on shopping cart
+2023-10-17 17:04:37,315 [main] INFO luma - click on shopping cart close button
+2023-10-17 17:06:33,484 [main] INFO luma - open the chrome browser
+2023-10-17 17:06:56,781 [main] INFO luma - go to gear and then click on fitness equipment
+2023-10-17 17:07:05,059 [main] INFO luma - sucessfully navigate to fitness equipment page
+2023-10-17 17:07:05,067 [main] INFO luma - click on list view
+2023-10-17 17:07:06,685 [main] INFO luma - sucessfully navigate to list view page
+2023-10-17 17:07:06,694 [main] INFO luma - sort the list by product name
+2023-10-17 17:07:11,582 [main] INFO luma - sucessfully navigate to pushup grip page
+2023-10-17 17:07:11,588 [main] INFO luma - enter the quantity
+2023-10-17 17:07:11,709 [main] INFO luma - click on add to cart
+2023-10-17 17:07:15,396 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-17 17:07:15,397 [main] INFO luma - click on shopping cart
+2023-10-17 17:07:15,479 [main] INFO luma - click on shopping cart close button
+2023-10-17 17:10:50,345 [main] INFO luma - open the chrome browser
+2023-10-17 17:11:03,834 [main] INFO luma - go to gear and then click on fitness equipment
+2023-10-17 17:11:10,727 [main] INFO luma - sucessfully navigate to fitness equipment page
+2023-10-17 17:11:10,736 [main] INFO luma - click on list view
+2023-10-17 17:11:12,268 [main] INFO luma - sucessfully navigate to list view page
+2023-10-17 17:11:12,284 [main] INFO luma - sort the list by product name
+2023-10-17 17:11:17,965 [main] INFO luma - sucessfully navigate to pushup grip page
+2023-10-17 17:11:17,969 [main] INFO luma - enter the quantity
+2023-10-17 17:11:18,111 [main] INFO luma - click on add to cart
+2023-10-17 17:11:21,568 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-17 17:11:21,576 [main] INFO luma - click on shopping cart
+2023-10-17 17:11:21,656 [main] INFO luma - click on shopping cart close button
+2023-10-17 17:14:14,632 [main] INFO luma - open the chrome browser
+2023-10-17 17:14:24,118 [main] INFO luma - go to gear and then click on fitness equipment
+2023-10-17 17:14:30,656 [main] INFO luma - sucessfully navigate to fitness equipment page
+2023-10-17 17:14:30,659 [main] INFO luma - click on list view
+2023-10-17 17:14:31,828 [main] INFO luma - sucessfully navigate to list view page
+2023-10-17 17:14:31,832 [main] INFO luma - sort the list by product name
+2023-10-17 17:14:34,721 [main] INFO luma - sucessfully navigate to pushup grip page
+2023-10-17 17:14:34,726 [main] INFO luma - enter the quantity
+2023-10-17 17:14:34,859 [main] INFO luma - click on add to cart
+2023-10-17 17:14:38,056 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-17 17:14:38,060 [main] INFO luma - click on shopping cart
+2023-10-17 17:14:38,129 [main] INFO luma - click on shopping cart close button
+2023-10-17 17:14:58,740 [main] INFO luma - open the chrome browser
+2023-10-17 17:15:01,477 [main] INFO luma - go to gear and then click on fitness equipment
+2023-10-17 17:15:01,527 [main] INFO luma - click on list view
+2023-10-17 17:15:01,549 [main] INFO luma - sort the list by product name
+2023-10-17 17:15:01,592 [main] INFO luma - enter the quantity
+2023-10-17 17:15:01,605 [main] INFO luma - click on add to cart
+2023-10-17 17:15:01,635 [main] INFO luma - click on shopping cart
+2023-10-17 17:15:01,655 [main] INFO luma - click on shopping cart close button
+2023-10-17 17:34:15,686 [main] INFO luma - open the chrome browser
+2023-10-17 17:34:51,629 [main] INFO luma - go to gear and then click on fitness equipment
+2023-10-17 17:35:33,365 [main] INFO luma - sucessfully navigate to fitness equipment page
+2023-10-17 17:35:33,373 [main] INFO luma - click on list view
+2023-10-17 17:35:34,870 [main] INFO luma - sucessfully navigate to list view page
+2023-10-17 17:35:34,877 [main] INFO luma - sort the list by product name
+2023-10-17 17:35:39,714 [main] INFO luma - sucessfully navigate to pushup grip page
+2023-10-17 17:35:39,715 [main] INFO luma - enter the quantity
+2023-10-17 17:35:39,857 [main] INFO luma - click on add to cart
+2023-10-17 17:35:43,856 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-17 17:35:43,858 [main] INFO luma - click on shopping cart
+2023-10-17 17:35:43,928 [main] INFO luma - click on shopping cart close button
+2023-10-17 17:37:45,730 [main] INFO luma - open the chrome browser
+2023-10-17 17:38:27,707 [main] INFO luma - go to gear and then click on fitness equipment
+2023-10-17 17:38:34,535 [main] INFO luma - sucessfully navigate to fitness equipment page
+2023-10-17 17:38:34,540 [main] INFO luma - click on list view
+2023-10-17 17:38:36,147 [main] INFO luma - sucessfully navigate to list view page
+2023-10-17 17:38:36,151 [main] INFO luma - sort the list by product name
+2023-10-17 17:38:39,880 [main] INFO luma - sucessfully navigate to pushup grip page
+2023-10-17 17:38:39,883 [main] INFO luma - enter the quantity
+2023-10-17 17:38:40,016 [main] INFO luma - click on add to cart
+2023-10-17 17:38:43,461 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-17 17:38:43,464 [main] INFO luma - click on shopping cart
+2023-10-17 17:38:43,532 [main] INFO luma - click on shopping cart close button
