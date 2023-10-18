@@ -427,3 +427,44 @@
 2023-10-17 17:38:43,461 [main] INFO luma - sucessfully displayed the add to cart message
 2023-10-17 17:38:43,464 [main] INFO luma - click on shopping cart
 2023-10-17 17:38:43,532 [main] INFO luma - click on shopping cart close button
+2023-10-18 18:36:55,045 [main] INFO luma - open the chrome browser
+2023-10-18 18:38:34,412 [main] INFO luma - click on sale
+2023-10-18 18:38:34,456 [main] INFO luma - click on men bargain
+2023-10-18 18:38:34,503 [main] INFO luma - click on style
+2023-10-18 18:38:34,519 [main] INFO luma - click on workout pant
+2023-10-18 18:38:34,566 [main] INFO luma - click on fitness short
+2023-10-18 18:38:34,598 [main] INFO luma - click on fitness short size
+2023-10-18 18:38:34,607 [main] INFO luma - click on fitness short color
+2023-10-18 18:38:34,629 [main] INFO luma - enter the quantity
+2023-10-18 18:38:34,645 [main] INFO luma - click on add to cart
+2023-10-18 18:38:34,661 [main] INFO luma - click on shopping cart
+2023-10-18 18:38:34,678 [main] INFO luma - click on shopping cart close button
+2023-10-18 18:38:41,693 [main] INFO luma - open the chrome browser
+2023-10-18 18:40:36,950 [main] INFO luma - click on sale
+2023-10-18 18:40:36,990 [main] INFO luma - click on men bargain
+2023-10-18 18:40:37,007 [main] INFO luma - click on style
+2023-10-18 18:40:37,022 [main] INFO luma - click on workout pant
+2023-10-18 18:40:37,053 [main] INFO luma - click on fitness short
+2023-10-18 18:40:37,100 [main] INFO luma - click on fitness short size
+2023-10-18 18:40:37,132 [main] INFO luma - click on fitness short color
+2023-10-18 18:40:37,148 [main] INFO luma - enter the quantity
+2023-10-18 18:40:37,179 [main] INFO luma - click on add to cart
+2023-10-18 18:40:37,199 [main] INFO luma - click on shopping cart
+2023-10-18 18:40:37,208 [main] INFO luma - click on shopping cart close button
+2023-10-18 18:41:07,764 [main] INFO luma - open the chrome browser
+2023-10-18 18:41:38,775 [main] INFO luma - click on sale
+2023-10-18 18:41:46,350 [main] INFO luma - sucessfully navigate to sale page
+2023-10-18 18:41:46,357 [main] INFO luma - click on men bargain
+2023-10-18 18:41:49,599 [main] INFO luma - sucessfully navigate to men bargain sale page
+2023-10-18 18:41:49,602 [main] INFO luma - click on style
+2023-10-18 18:41:49,663 [main] INFO luma - click on workout pant
+2023-10-18 18:41:50,546 [main] INFO luma - sucessfully navigate to men workout pant page
+2023-10-18 18:41:50,550 [main] INFO luma - click on fitness short
+2023-10-18 18:41:54,771 [main] INFO luma - sucessfully navigate to men fitness short page
+2023-10-18 18:41:54,780 [main] INFO luma - click on fitness short size
+2023-10-18 18:41:54,826 [main] INFO luma - click on fitness short color
+2023-10-18 18:41:54,878 [main] INFO luma - enter the quantity
+2023-10-18 18:41:55,025 [main] INFO luma - click on add to cart
+2023-10-18 18:41:57,139 [main] INFO luma - sucessfully displayed the add to cart message
+2023-10-18 18:41:57,140 [main] INFO luma - click on shopping cart
+2023-10-18 18:41:57,201 [main] INFO luma - click on shopping cart close button

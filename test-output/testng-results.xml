@@ -1,69 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-17T17:37:45 IST" name="Default suite" finished-at="2023-10-17T17:38:43 IST" duration-ms="58093">
+  <suite started-at="2023-10-18T18:41:07 IST" name="Default suite" finished-at="2023-10-18T18:41:57 IST" duration-ms="49738">
     <groups>
     </groups>
-    <test started-at="2023-10-17T17:37:45 IST" name="Default test" finished-at="2023-10-17T17:38:43 IST" duration-ms="58093">
-      <class name="com.luma.tests.GearTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:37:45 IST" name="setUp" finished-at="2023-10-17T17:38:27 IST" duration-ms="42060" status="PASS">
+    <test started-at="2023-10-18T18:41:07 IST" name="Default test" finished-at="2023-10-18T18:41:57 IST" duration-ms="49738">
+      <class name="com.luma.tests.SaleTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:07 IST" name="setUp" finished-at="2023-10-18T18:41:38 IST" duration-ms="31104" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testGear()[pri:1, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:27 IST" name="testGear" finished-at="2023-10-17T17:38:34 IST" duration-ms="6821" status="PASS">
+        <test-method signature="testSale()[pri:1, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:38 IST" name="testSale" finished-at="2023-10-18T18:41:46 IST" duration-ms="7555" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testGear -->
-        <test-method signature="testFitnessEquipmentPage()[pri:2, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:34 IST" name="testFitnessEquipmentPage" finished-at="2023-10-17T17:38:34 IST" duration-ms="12" status="PASS">
+        </test-method> <!-- testSale -->
+        <test-method signature="testSalePage()[pri:2, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:46 IST" name="testSalePage" finished-at="2023-10-18T18:41:46 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testFitnessEquipmentPage -->
-        <test-method signature="testListView()[pri:3, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:34 IST" name="testListView" finished-at="2023-10-17T17:38:36 IST" duration-ms="1530" status="PASS">
+        </test-method> <!-- testSalePage -->
+        <test-method signature="testMenBargain()[pri:3, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:46 IST" name="testMenBargain" finished-at="2023-10-18T18:41:49 IST" duration-ms="3235" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testListView -->
-        <test-method signature="testListViewPage()[pri:4, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:36 IST" name="testListViewPage" finished-at="2023-10-17T17:38:36 IST" duration-ms="72" status="PASS">
+        </test-method> <!-- testMenBargain -->
+        <test-method signature="testMenBargainPage()[pri:4, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:49 IST" name="testMenBargainPage" finished-at="2023-10-18T18:41:49 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testListViewPage -->
-        <test-method signature="testSortByProductName()[pri:5, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:36 IST" name="testSortByProductName" finished-at="2023-10-17T17:38:36 IST" duration-ms="84" status="PASS">
+        </test-method> <!-- testMenBargainPage -->
+        <test-method signature="testStyle()[pri:5, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:49 IST" name="testStyle" finished-at="2023-10-18T18:41:49 IST" duration-ms="54" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testSortByProductName -->
-        <test-method signature="testPushupGrip()[pri:6, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:36 IST" name="testPushupGrip" finished-at="2023-10-17T17:38:39 IST" duration-ms="3632" status="PASS">
+        </test-method> <!-- testStyle -->
+        <test-method signature="testWorkOut()[pri:6, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:49 IST" name="testWorkOut" finished-at="2023-10-18T18:41:50 IST" duration-ms="868" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPushupGrip -->
-        <test-method signature="testPushupGripPage()[pri:7, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:39 IST" name="testPushupGripPage" finished-at="2023-10-17T17:38:39 IST" duration-ms="10" status="PASS">
+        </test-method> <!-- testWorkOut -->
+        <test-method signature="testMenWorkoutPantPage()[pri:7, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:50 IST" name="testMenWorkoutPantPage" finished-at="2023-10-18T18:41:50 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPushupGripPage -->
-        <test-method signature="testQuantity()[pri:8, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:39 IST" name="testQuantity" finished-at="2023-10-17T17:38:40 IST" duration-ms="136" status="PASS">
+        </test-method> <!-- testMenWorkoutPantPage -->
+        <test-method signature="testMenFitnessShort()[pri:8, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:50 IST" name="testMenFitnessShort" finished-at="2023-10-18T18:41:54 IST" duration-ms="4212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenFitnessShort -->
+        <test-method signature="testMenFitnessShortPage()[pri:9, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:54 IST" name="testMenFitnessShortPage" finished-at="2023-10-18T18:41:54 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenFitnessShortPage -->
+        <test-method signature="testMenFitnessShortSize()[pri:10, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:54 IST" name="testMenFitnessShortSize" finished-at="2023-10-18T18:41:54 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenFitnessShortSize -->
+        <test-method signature="testMenFitnessShortColor()[pri:11, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:54 IST" name="testMenFitnessShortColor" finished-at="2023-10-18T18:41:54 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenFitnessShortColor -->
+        <test-method signature="testQuantity()[pri:12, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:54 IST" name="testQuantity" finished-at="2023-10-18T18:41:55 IST" duration-ms="142" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testQuantity -->
-        <test-method signature="testAddToCart()[pri:9, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:40 IST" name="testAddToCart" finished-at="2023-10-17T17:38:40 IST" duration-ms="67" status="PASS">
+        <test-method signature="testAddToCart()[pri:13, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:55 IST" name="testAddToCart" finished-at="2023-10-18T18:41:55 IST" duration-ms="87" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddToCart -->
-        <test-method signature="testAddToCartSucessMessage()[pri:10, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:40 IST" name="testAddToCartSucessMessage" finished-at="2023-10-17T17:38:43 IST" duration-ms="3378" status="PASS">
+        <test-method signature="testAddToCartSucessMessage()[pri:14, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:55 IST" name="testAddToCartSucessMessage" finished-at="2023-10-18T18:41:57 IST" duration-ms="2027" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddToCartSucessMessage -->
-        <test-method signature="testShoppingCart()[pri:11, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:43 IST" name="testShoppingCart" finished-at="2023-10-17T17:38:43 IST" duration-ms="60" status="PASS">
+        <test-method signature="testShoppingCart()[pri:15, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:57 IST" name="testShoppingCart" finished-at="2023-10-18T18:41:57 IST" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testShoppingCart -->
-        <test-method signature="testShoppingCartCloseButton()[pri:12, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:43 IST" name="testShoppingCartCloseButton" finished-at="2023-10-17T17:38:43 IST" duration-ms="66" status="PASS">
+        <test-method signature="testShoppingCartCloseButton()[pri:16, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:57 IST" name="testShoppingCartCloseButton" finished-at="2023-10-18T18:41:57 IST" duration-ms="61" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testShoppingCartCloseButton -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.tests.GearTest@795509d9]" started-at="2023-10-17T17:38:43 IST" name="tearDown" finished-at="2023-10-17T17:38:43 IST" duration-ms="108" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.tests.SaleTest@3a7442c7]" started-at="2023-10-18T18:41:57 IST" name="tearDown" finished-at="2023-10-18T18:41:57 IST" duration-ms="119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.luma.tests.GearTest -->
+      </class> <!-- com.luma.tests.SaleTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
