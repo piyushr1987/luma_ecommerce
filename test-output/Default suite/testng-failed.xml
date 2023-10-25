@@ -3,28 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.luma.tests.SaleTest">
+      <class name="com.luma.tests.ForgotPasswordTest">
         <methods>
-          <include name="testMenFitnessShort"/>
-          <include name="testSalePage"/>
-          <include name="testMenFitnessShortPage"/>
-          <include name="testMenFitnessShortSize"/>
-          <include name="testShoppingCartCloseButton"/>
-          <include name="setUp"/>
-          <include name="testMenBargainPage"/>
-          <include name="testSale"/>
-          <include name="testMenFitnessShortColor"/>
-          <include name="testStyle"/>
-          <include name="testQuantity"/>
-          <include name="testShoppingCart"/>
-          <include name="testAddToCart"/>
-          <include name="testMenBargain"/>
-          <include name="testMenWorkoutPantPage"/>
-          <include name="testWorkOut"/>
+          <include name="testResetPasswordMessage"/>
           <include name="tearDown"/>
-          <include name="testAddToCartSucessMessage"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- com.luma.tests.SaleTest -->
+      </class> <!-- com.luma.tests.ForgotPasswordTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

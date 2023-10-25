@@ -468,3 +468,39 @@
 2023-10-18 18:41:57,139 - luma -INFO - sucessfully displayed the add to cart message
 2023-10-18 18:41:57,140 - luma -INFO - click on shopping cart
 2023-10-18 18:41:57,201 - luma -INFO - click on shopping cart close button
+2023-10-25 18:06:53,208 - luma -INFO - open the chrome browser
+2023-10-25 18:06:56,622 - luma -INFO - click on sign in link
+2023-10-25 18:20:25,034 - luma -INFO - open the chrome browser
+2023-10-25 18:22:18,200 - luma -INFO - click on sign in link
+2023-10-25 18:22:18,269 - luma -INFO - click on forgot password link
+2023-10-25 18:22:18,309 - luma -INFO - enter the email
+2023-10-25 18:22:18,342 - luma -INFO - click on reset password
+2023-10-25 18:24:20,832 - luma -INFO - open the chrome browser
+2023-10-25 18:24:30,483 - luma -INFO - click on sign in link
+2023-10-25 18:24:32,108 - luma -INFO - forgort password link is displayed on sign in page
+2023-10-25 18:24:32,113 - luma -INFO - click on forgot password link
+2023-10-25 18:24:33,229 - luma -INFO - sucessfully navigate to forgot password page
+2023-10-25 18:24:33,233 - luma -INFO - enter the email
+2023-10-25 18:24:33,380 - luma -INFO - click on reset password
+2023-10-25 18:27:25,486 - luma -INFO - open the chrome browser
+2023-10-25 18:27:34,608 - luma -INFO - click on sign in link
+2023-10-25 18:27:37,235 - luma -INFO - forgort password link is displayed on sign in page
+2023-10-25 18:27:37,244 - luma -INFO - click on forgot password link
+2023-10-25 18:27:38,472 - luma -INFO - sucessfully navigate to forgot password page
+2023-10-25 18:27:38,478 - luma -INFO - enter the email
+2023-10-25 18:27:38,602 - luma -INFO - click on reset password
+2023-10-25 18:31:08,120 - luma -INFO - open the chrome browser
+2023-10-25 18:31:18,036 - luma -INFO - click on sign in link
+2023-10-25 18:31:20,407 - luma -INFO - forgort password link is displayed on sign in page
+2023-10-25 18:31:20,414 - luma -INFO - click on forgot password link
+2023-10-25 18:31:21,531 - luma -INFO - sucessfully navigate to forgot password page
+2023-10-25 18:31:21,543 - luma -INFO - enter the email
+2023-10-25 18:31:21,701 - luma -INFO - click on reset password
+2023-10-25 18:35:09,971 - luma -INFO - open the chrome browser
+2023-10-25 18:35:18,363 - luma -INFO - click on sign in link
+2023-10-25 18:35:20,856 - luma -INFO - forgort password link is displayed on sign in page
+2023-10-25 18:35:20,864 - luma -INFO - click on forgot password link
+2023-10-25 18:35:22,013 - luma -INFO - sucessfully navigate to forgot password page
+2023-10-25 18:35:22,027 - luma -INFO - enter the email
+2023-10-25 18:35:22,220 - luma -INFO - click on reset password
+2023-10-25 18:35:25,653 - luma -INFO - sucessfully displayed the reset password message
